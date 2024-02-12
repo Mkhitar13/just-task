@@ -1,0 +1,39 @@
+# Tree Structure Web Application
+
+This project is a simple web application that displays a tree structure based on JSON data fetched from a Node.js server. The tree structure resembles the directory tree of a file system, where each item can have child elements.
+
+## Features
+
+- Fetches JSON data from a Node.js server
+- Builds and displays a tree structure based on the fetched data
+- Supports toggling of child elements
+- Uses Express.js for the backend server
+
+## Installation
+
+1. Clone the repository to your local machine:
+
+
+2. Navigate to the project directory:
+
+
+3. Install dependencies:
+
+
+4. Start the Node.js server:
+
+
+5. Open your web browser and navigate to `http://localhost:3000` to view the application.
+
+## Usage
+
+- The application will display the tree structure fetched from the server.
+- Click on a parent item to expand/collapse its child elements.
+
+## Contributing
+
+Contributions are welcome! Feel free to submit pull requests or open issues for any bugs, feature requests, or improvements.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  :))
